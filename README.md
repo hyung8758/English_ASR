@@ -2,8 +2,8 @@
 
    
 
-It is working on Mac(El Capitan) and Ubuntu(14.04).
-To run this program, kaldi should be installed on your computer.
+- It is working on Mac(El Capitan) and Ubuntu(14.04).
+- To run this program, kaldi should be installed on your computer.
 
 ## PREREQUISITE
 
